@@ -1,0 +1,109 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    background: #7a9290;
+    color: #0e4641;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.header{
+    background: #fff;
+}
+.title{
+    background: #0e4641;;
+    color: #fff;
+    text-align: center;
+}
+.nav{
+    background: #ffffff;;
+    color: #fff;
+    text-align: center;
+}
+.footer{
+    background: #0e4641;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    font-size: 12px;
+    border-top: solid 8px #ffffff;
+}
+.page{
+    min-height:100%;
+    margin: 0 auto -78px;
+}
+.box1{
+    background: #fff;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.box2{
+    background: #fff;
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+}
+.bar{
+    border-top: solid 4px #666;
+    margin: 20px 0px;
+}
+.myPic {
+    width: 293px;
+    height: 340px;
+    margin: 0px 10px 10px 0px;
+    float:left;
+    border-radius: 5px;
+}
+a {
+    margin: 10px;
+}
+.icon:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+#A,#B,#C{
+    width:100%;
+    border-radius:5px;
+    font-size:17px;  
+    font-weight: bold;
+    margin: 10px 0px;  
+}
+#D{
+    background-color: #0e4641;;
+    color: white;
+    padding: 15px 30px;
+    font-size: 15px;  
+    border-radius: 5px;  
+}
+.gallery{
+    position: relative;
+    display: inline-block;
+    margin: 20px;
+}
+.gallery:hover {
+    opacity: 0.7;
+    cursor: pointer;
+}
+.cover{
+    position: absolute;
+    left: 0px;
+    bottom: 61.5px;
+    width: 100%;
+    padding:20px 0px;
+    text-align: center;
+    font-size: 18px;
+    color:#fff;
+    background: #0e4641a2;
+}
+.space{
+    height: 42px;
+}
+
+
+
+
+
+
+
+
+
